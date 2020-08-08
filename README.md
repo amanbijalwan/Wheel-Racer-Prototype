@@ -12,3 +12,6 @@ Some work points for this pre-alpha release.
 3) Solo mode can be time constrained.
 
 ---------------------------------------
+
+Devlog #01 Link here.
+Link: https://youtu.be/fDvynN09PwU
